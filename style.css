@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+}
+
+table, tr, td {
+  border: 1px solid #abc;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 40px auto;
+}
+
+tr {
+  height: 25px;
+}
+
+td {
+  width: 25px;
+}
+
+.mainTitle {
+    font-size: 1.1rem;
+    display: inline;
+}
+
+.chooseTitle {
+    font-size: 1.1rem;
+    display: inline;
+}
+
+table {
+    margin: 10px auto;
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    width: 30px;
+}
+
+
+
